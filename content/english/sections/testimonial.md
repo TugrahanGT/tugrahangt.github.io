@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "What Customers Are Saying About triple-ID"
-description: "Don't just take our word for it - hear from some of our satisfied customers!  Check out some of our testimonials below to see what others are saying about triple-ID."
+title: "What Customers Are Saying About tugrahangt"
+description: "Don't just take our word for it - hear from some of our satisfied customers!  Check out some of our testimonials below to see what others are saying about tugrahangt."
 
 # Testimonials
 testimonials:

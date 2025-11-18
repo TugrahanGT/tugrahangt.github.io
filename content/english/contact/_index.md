@@ -1,6 +1,6 @@
 ---
 title: "Contact"
 meta_title: ""
-description: "Contact triple-ID"
+description: "Contact tugrahangt"
 draft: false
 ---

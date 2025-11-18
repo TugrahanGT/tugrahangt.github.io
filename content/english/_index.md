@@ -16,7 +16,7 @@ features:
       - "To the right resources"
       - "At the right time"
 
-  - title: "Discover the Services of triple-ID"
+  - title: "Discover the Services of tugrahangt"
     image: "/images/service-2.png"
     content: "A strong, international team with years of experience in Identity and Access Management solutions, with extensive knowledge on most of the IAM Products in the Gartner Magic Quadrant for Identity Governance and Administration. We are active in BeNeLux, DACH and EMEA regions."
     bulletpoints:
@@ -28,7 +28,7 @@ features:
       label: "Get Started Now"
       link: "/about"
 
-  - title: "The Top Reasons to triple-ID for your Identity"
+  - title: "The Top Reasons to tugrahangt for your Identity"
     image: "/images/service-3.png"
     content: "We help organizations strengthen their Identity and Access Management by leveraging our international experience and deep expertise across leading IAM solutions."
     bulletpoints:
